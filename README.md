@@ -1,4 +1,4 @@
-Getting And Cleaning Data Peer Reviewed Project
+Getting And Cleaning Data Project
 ===============================================
 
 This repo includes an implementation of the final project in the course "Getting and cleaning data", by Coursera.
